@@ -1,0 +1,44 @@
+##Filmes
+1,"Homem de Ferro",2008
+2,"O Incrível Hulk",2008
+3,"Homem de Ferro 2",2010
+4,"Thor",2011
+5,"Capitão América: O Primeiro Vingador",2011
+6,"Os Vingadores",2012
+7,"Homem de Ferro 3",2013
+8,"Thor: O Mundo Sombrio",2013
+9,"Capitão América 2: O Soldado Invernal",2014
+10,"Guardiões da Galáxia",2014
+11,"Vingadores: Era de Ultron",2015
+12,"Homem-Formiga",2015
+13,"Capitão América: Guerra Civil",2016
+14,"Doutor Estranho",2016
+15,"Guardiões da Galáxia Vol. 2",2017
+16,"Homem-Aranha: De Volta Ao Lar",2017
+17,"Thor: Ragnarok",2017
+18,"Pantera Negra",2018
+19,"Vingadores: Guerra Infinita",2018
+20,"Homem-Formiga e a Vespa",2018
+21,"Capitã Marvel",2019
+22,"Vingadores: Ultimato",2019
+##Salas
+1,"Amarela",100
+2,"Azul",50
+3,"Verde",75
+4,"Vermelha",90
+##Premiacao
+1,"Oscar"
+2,"Globo de Ouro"
+3,"Quiquito"
+##Horarios
+1,"14:30"
+2,"16:30"
+3,"18:30"
+4,"20:30"
+5,"22:30"
+##Funcionarios
+1,"Daniel Luis"
+2,"Ricardo Aurelio"
+3,"Helena Maria"
+4,"Andre Gustavo"
+5,"Alexandre Erasmo"
