@@ -51,6 +51,3 @@ Observações
 
 5.	Não é permitido o uso do modificador de acesso static
 
-6.	Este trabalho pode ser feito em duplas
-
-7.	Entregar o código fonte, um texto explicativo do funcionamento do mesmo e a descrição de onde foi utilizado os conceitos de orientação a objetos descritos no item 2.
